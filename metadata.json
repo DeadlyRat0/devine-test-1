@@ -1,0 +1,6 @@
+{
+  "name": "DIVINE Herbal Cosmetics",
+  "description": "100% Ayurvedic & Herbal Hair Care, Skin Care & Wellness Online Store with Direct WhatsApp & UPI Ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
